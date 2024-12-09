@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=0CB9953C8BA1FD4B97152C11FCD5E268/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=0CB9953C8BA1FD4B97152C11FCD5E268/Type/@EntryValue">project</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=0CB9953C8BA1FD4B97152C11FCD5E268/Name/@EntryValue">LoopAgain</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=0CB9953C8BA1FD4B97152C11FCD5E268/ProjectGuid/@EntryValue">FC9146E58BCCA6459C48DBA9DEC33B54</s:String>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">7D1DC3A72CC1C245A10D6CD2F3B53AE6</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=1768705A99DB8E41BA3CF468849B9368/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=1768705A99DB8E41BA3CF468849B9368/Name/@EntryValue">Password</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=1768705A99DB8E41BA3CF468849B9368/ProjectGuid/@EntryValue">A2F83281D1F8C848ACAFDFC05A90B1B3</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=1768705A99DB8E41BA3CF468849B9368/Type/@EntryValue">project</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=62D870E2DD436748849B1B2EFD97A118/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=62D870E2DD436748849B1B2EFD97A118/Name/@EntryValue">SafeAndSound</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=62D870E2DD436748849B1B2EFD97A118/ProjectGuid/@EntryValue">C8642D48B31EB541AB7F560DB40479E0</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=62D870E2DD436748849B1B2EFD97A118/Type/@EntryValue">project</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=7D1DC3A72CC1C245A10D6CD2F3B53AE6/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=7D1DC3A72CC1C245A10D6CD2F3B53AE6/Name/@EntryValue">Images</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=7D1DC3A72CC1C245A10D6CD2F3B53AE6/ProjectGuid/@EntryValue">8F1BCE6ABAACD14EBBFE13D7CAC5108B</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=7D1DC3A72CC1C245A10D6CD2F3B53AE6/Type/@EntryValue">project</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=862B2FBDA42B3447AFFE119844AFF02F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=862B2FBDA42B3447AFFE119844AFF02F/Name/@EntryValue">Shapes</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=862B2FBDA42B3447AFFE119844AFF02F/ProjectGuid/@EntryValue">80D5DB5E65A2F84FAB0DD1FB98182D68</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=862B2FBDA42B3447AFFE119844AFF02F/Type/@EntryValue">project</s:String></wpf:ResourceDictionary>
